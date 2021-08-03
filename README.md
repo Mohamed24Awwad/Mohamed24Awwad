@@ -1,5 +1,5 @@
 <p>
-<a href="https://www.linkedin.com/in/mohamedawwad-sd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mohamedawwad-sd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed El-Demery-blue?style=flat-square&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-Mid%20Level-_.svg?logo=javascript"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-Mid%20Level-_.svg?logo=typescript"></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-Mid%20Level-_.svg?logo=angular"></a>

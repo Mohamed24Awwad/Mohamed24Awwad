@@ -1,12 +1,11 @@
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;Fellow/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+<p>
+  <a href="https://www.linkedin.com/in/mohamedawwad-sd"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Mid%20Level-_.svg?logo=javascript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-Mid%20Level-_.svg?logo=typescript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Angular-Mid%20Level-_.svg?logo=angular"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+ [![My Discord](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.com/channels/@me)
+</p>
 
 <br/>
 

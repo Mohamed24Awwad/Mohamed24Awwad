@@ -20,13 +20,7 @@
 
 <br/>
 
-#
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Mohamed24Awwad&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Mohamed24Awwad)
-
-#
-
-# My activities
+# Activities
 
 <a href="https://github.com/Pepyn0/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed24Awwad&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />

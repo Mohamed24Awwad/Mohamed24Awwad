@@ -27,8 +27,8 @@
 </a>
 <a href="https://github.com/Mohamed24Awwad/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed24Awwad&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-  <a href ="https://github.com/Mohamed24Awwad/github-stats/blob/master/generated/languages.svg"/>
 </a>
+<a href="https://github.com/username/github-stats/blob/master/generated/languages.svg"/>
 
 #
 

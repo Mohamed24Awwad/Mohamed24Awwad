@@ -1,10 +1,7 @@
 <p>
- <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
   <a href="https://www.linkedin.com/in/mohamedawwad-sd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MohamedAwwad-blue?style=flat-square&logo=linkedin"></a>
  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-Mid%20Level-_.svg?logo=javascript"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-Mid%20Level-_.svg?logo=typescript"></a>

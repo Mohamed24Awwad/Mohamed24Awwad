@@ -3,12 +3,12 @@
  <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Mid%20Level-_.svg?logo=javascript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-Mid%20Level-_.svg?logo=typescript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Senior%20Level-_.svg?logo=javascript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-Senior%20Level-_.svg?logo=typescript"></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-Mid%20Level-_.svg?logo=angular"></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-Biganner%20Level-_.svg?logo=aws"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-Biganner%20Level-_.svg?logo=Docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Senior%20Level-_.svg?logo=aws"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-Senior%20Level-_.svg?logo=Docker"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
